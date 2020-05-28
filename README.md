@@ -39,3 +39,18 @@
     - "ios"
   - `App.js`
 - `npm start`, `yarn start`
+
+<br/>
+
+### Getting to know Expo
+
+- `Metro Bundler`
+  - Builds for running in phones
+- On the **SAME** wifi
+- Live Reloading vs Hot Reloading
+  - Live Reloading
+    - save and refresh `automatically`
+  - Hot Reloading
+  - Shake phone or `CTRL + D` for **Developer Menu**
+  - `Debug with JS`
+    - could make the app slower
