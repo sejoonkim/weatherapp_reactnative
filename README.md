@@ -69,3 +69,21 @@
      - The Bridge could cause stalls
        - maybe only for content
      - styles follow CSS syntax
+
+<br/>
+
+<br/>
+
+## Logic
+
+### Layouts with Flexbox in React Native
+
+- `flexDirection: column`
+
+  - by default all flex containers have this setting
+
+  - cf) web, default is row
+  - in mobile phone, layout components are under each other
+
+- How `flex container` works?
+  - `flex: 1` - take all the space available
