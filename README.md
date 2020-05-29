@@ -87,3 +87,11 @@
 
 - How `flex container` works?
   - `flex: 1` - take all the space available
+
+<br/>
+
+### Loading Screen
+
+- in `styles`
+  - fontSize: 20
+  - fontSize: "20px"
