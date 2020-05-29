@@ -112,3 +112,13 @@
 
 - `await Location.requestPermissionsAsync();`
 - save latitude and longitude information to `state`
+
+<br/>
+
+### Getting the Weather
+
+- https://home.openweathermap.org/api_keys
+  - get the API key by geographic coordinates
+- fetch data with `Axios`
+  - use `Backtick` around the URL
+  - use `Template Literals`
