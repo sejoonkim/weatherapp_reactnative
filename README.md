@@ -54,3 +54,18 @@
   - Shake phone or `CTRL + D` for **Developer Menu**
   - `Debug with JS`
     - could make the app slower
+
+<br/>
+
+### How does React Native Work?
+
+- 3 ways of making Mobile Apps
+  1. native = IOS - xcode, Android - Android Studio
+  2. Webview based app
+     - Cordova
+     - PhoneGap
+  3. RN
+     - Bridge between JS and native
+     - The Bridge could cause stalls
+       - maybe only for content
+     - styles follow CSS syntax
