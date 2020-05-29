@@ -95,3 +95,13 @@
 - in `styles`
   - fontSize: 20
   - fontSize: "20px"
+
+<br/>
+
+### Getting the Location
+
+- `Geolocation`
+  - `getCurrentPosition()`
+- can use `Expo's` API
+  - not installed by Default
+  - `expo install expo-location`
