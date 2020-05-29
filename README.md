@@ -105,3 +105,10 @@
 - can use `Expo's` API
   - not installed by Default
   - `expo install expo-location`
+
+<br/>
+
+### Ask for Permissions
+
+- `await Location.requestPermissionsAsync();`
+- save latitude and longitude information to `state`
