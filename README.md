@@ -176,9 +176,14 @@
 - `expo install expo-linear-gradient`
 
 - `StatusBar`
-
   - invisible bridge
-
 - handling each `weather conditions`
-
   - https://uigradients.com/#BoraBora
+
+<br/>
+
+### Titles and Subtitles
+
+![src](weatherapp_reactnative\assets\flex-start.png)
+
+- `alignItems: flex-start` - order each items to the top and left
