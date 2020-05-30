@@ -2,7 +2,7 @@
 
 ### App Images
 
-![clear](https://github.com/sejoonkim/weatherapp_reactnative\weatherapp_reactnative\assets\clear.png) ![rain](https://github.com/sejoonkim/weatherapp_reactnative\weatherapp_reactnative\assets\rain.png) ![cloudy](https://github.com/sejoonkim/weatherapp_reactnative\weatherapp_reactnative\assets\cloudy.png)
+![clear](https://github.com/sejoonkim/weatherapp_reactnative/weatherapp_reactnative/assets/clear.png) ![rain](https://github.com/sejoonkim/weatherapp_reactnative/weatherapp_reactnative/assets/rain.png) ![cloudy](https://github.com/sejoonkim/weatherapp_reactnative/weatherapp_reactnative/assets/cloudy.png)
 
 ### Requirements
 
