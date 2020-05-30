@@ -122,3 +122,15 @@
 - fetch data with `Axios`
   - use `Backtick` around the URL
   - use `Template Literals`
+
+<br/>
+
+### Displaying Temperature
+
+- change the units of temperature
+
+- create `Weather.js`
+- install prop-types
+  - `npm install prop-types`
+  - set `temp` to isRequired
+- add `temp` to state by `setstate()`
