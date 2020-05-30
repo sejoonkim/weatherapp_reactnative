@@ -2,7 +2,7 @@
 
 ### App Images
 
-![clear](https://github.com/sejoonkim/weatherapp_reactnative/weatherapp_reactnative/assets/clear.png) ![rain](https://github.com/sejoonkim/weatherapp_reactnative/weatherapp_reactnative/assets/rain.png) ![cloudy](https://github.com/sejoonkim/weatherapp_reactnative/weatherapp_reactnative/assets/cloudy.png)
+![clear](https://github.com/sejoonkim/weatherapp_reactnative/blob/master/weatherapp_reactnative/assets/clear.png) ![rain](https://github.com/sejoonkim/weatherapp_reactnative/blob/master/weatherapp_reactnative/assets/rain.png) ![cloudy](https://github.com/sejoonkim/weatherapp_reactnative/blob/master/weatherapp_reactnative/assets/cloudy.png)
 
 ### Requirements
 
@@ -188,6 +188,6 @@
 
 ### Titles and Subtitles
 
-![src](https://github.com/sejoonkim/weatherapp_reactnative\weatherapp_reactnative\assets\flex-start.png)
+![src](https://github.com/sejoonkim/weatherapp_reactnative/blob/master/weatherapp_reactnative/assets/flex-start.png)
 
 - `alignItems: flex-start` - order each items to the top and left
