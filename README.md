@@ -134,3 +134,29 @@
   - `npm install prop-types`
   - set `temp` to isRequired
 - add `temp` to state by `setstate()`
+
+<br/>
+
+### Getting the Condition Names
+
+- get the `weather condition codes` with icons
+
+- condition proptypes
+
+  - `Proptypes.oneof`
+
+- `Weather.js`
+
+  - add weather conditions
+
+- `App.js`
+
+  ```javascript
+  const {
+        data: {
+          main: { temp },
+          weather,
+        },
+  ```
+
+  - ES6 syntax
