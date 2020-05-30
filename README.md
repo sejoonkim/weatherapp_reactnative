@@ -1,3 +1,11 @@
+## Test the app in Expo
+
+- Download Expo from AppStore
+- Link: https://expo.io/@sejoonkim/weatherapp_reactnative
+
+<br/>
+<br/>
+
 ## Introduction
 
 ### App Images
