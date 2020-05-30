@@ -167,3 +167,18 @@
 
 - use `@expo/vector-icons` installed by default
 - add `<View/>` to split the screen in half
+
+<br/>
+
+### Background Gradient
+
+- It is easy to create `gradient` theme in CSS but hard in `React Native`
+- `expo install expo-linear-gradient`
+
+- `StatusBar`
+
+  - invisible bridge
+
+- handling each `weather conditions`
+
+  - https://uigradients.com/#BoraBora
