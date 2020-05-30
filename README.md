@@ -160,3 +160,10 @@
   ```
 
   - ES6 syntax
+
+<br/>
+
+### Icons and Styling
+
+- use `@expo/vector-icons` installed by default
+- add `<View/>` to split the screen in half
